@@ -1,2 +1,7 @@
 title: Microprocesseur
 theme: jekyll-theme-tactile
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
