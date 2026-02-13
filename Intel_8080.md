@@ -1,8 +1,8 @@
 ---
-title: Intel 4004
+title: Intel 8080
 ---
-# Intel 4004
-- freq: 740 kHz to 750 kHz
-- transistors: 2300
+# Intel 8080
+- freq: 
+- transistors: 
 
 [histoire des processeurs](https://fr.wikipedia.org/wiki/Intel_8080)  
